@@ -51,5 +51,5 @@
 # Embedded web-server pid file
 /.web-server-pid
 
-#Mac DS_Store
+# Mac DS_Store
 .DS_Store
